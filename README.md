@@ -200,7 +200,7 @@ exec msdb.dbo.rds_task_status @db_name='rds-database-name-2';
 ### Write to DB
 
 1. Right-click on database name. Select 'New Query'.
-2. Write queries in the SQL like the following example:
+2. Write queries as usual in the SQL like the following example:
 
 ```sql
 -- Create the table
