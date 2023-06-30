@@ -217,3 +217,5 @@ INSERT INTO your_table_name (id, name, age, email) VALUES
 (2, 'Jane Smith', 30, 'jane.smith@example.com'),
 (3, 'Michael Johnson', 35, 'michael.johnson@example.com');
 ```
+
+3. Run the query commands to execute.
